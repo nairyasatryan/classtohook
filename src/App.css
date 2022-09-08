@@ -13,6 +13,7 @@ body{
     background: lightblue;
     width: 40px;
     height: 40px;
+    margin-left: 5px;
 }
 .app-title{
     text-align: center;
@@ -23,4 +24,10 @@ body{
     border: 5px solid pink;
     border-radius: 25px;
 
+}
+
+
+.class-tohook-page {
+    background: lightblue;
+    margin-left: 5px;
 }
