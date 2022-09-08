@@ -46,7 +46,7 @@ function Hook() {
             margin: "auto",
           }}
         >
-          Add an item...
+          Add an Item...
           <br />
           {/* 2. Add new item (input) */}
           <input
